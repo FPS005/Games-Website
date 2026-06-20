@@ -521,7 +521,7 @@ button:nth-child(2):hover,i:hover {
   translate: -50%;
   height: 2px;
   background: linear-gradient(to right, #000, #cbff22 20%, #cbff22 80%, #000);
-  width: 400px;
+  width: 300px;
   box-shadow: 0px 0px 10px #cbff22;
   z-index: 2;
 }
